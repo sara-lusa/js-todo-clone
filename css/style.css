@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.template {
+  display: none;
+}
+
+.container h1 {
+  margin-bottom: 40px;
+}
+
+.lista li {
+  padding: 20px 0;
+  border: 1px solid black;
+}
+
+.lista li span {
+  cursor: pointer;
+  color: red;
+}
